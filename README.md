@@ -19,6 +19,10 @@ I enjoy solving complex problems, designing scalable systems, and building produ
 
 ## ⚙️ Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,bun,elysia,redis,docker,kubernetes,mysql,postgres,materialui,github,firebase,mongodb,kafka,rabbitmq,azure" />
+</p>
+
 ### 🖥️ Frontend
 
 - React.js
@@ -51,6 +55,10 @@ I enjoy solving complex problems, designing scalable systems, and building produ
 - Kubernetes
 - CI/CD
 - Turborepo
+
+---
+
+## ⚙️ Tech Stack
 
 ---
 
@@ -126,8 +134,16 @@ React Native mobile app with structured UI and wallet features
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sazzad-bin-anwar-5790b3145/
-- 📧 Email: sazzadzihan@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/sazzad-bin-anwar-5790b3145/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sazzadzihan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+📧 Email: sazzadzihan@gmail.com
 
 ---
 
